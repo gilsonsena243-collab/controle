@@ -1,0 +1,6 @@
+{
+  "name": "Global Portfolio Dashboard",
+  "description": "A comprehensive multi-asset investment tracking dashboard with live price updates, performance metrics, and allocation mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
